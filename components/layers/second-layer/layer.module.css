@@ -1,0 +1,39 @@
+.container {
+    background-color: #62D0DF;
+
+    height: 607px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.right_side {
+    width: 60%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.content_wrapper {
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.title {
+    font-size: 36px;
+    color: white;
+    font-family: "ABeeZee", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.content {
+    font-size: 24px;
+    color: white;
+    font-family: "ABeeZee", sans-serif;
+    line-height: 35.46px;
+    font-style: italic;
+}

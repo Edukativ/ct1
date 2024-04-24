@@ -1,0 +1,6 @@
+.container {
+    height: 480px;
+    background-color: rebeccapurple;
+    width: 100%;
+    display: flex;
+}

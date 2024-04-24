@@ -1,0 +1,12 @@
+.container {
+    height: 633px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    color: #22356F;
+    line-height: 34.04px;
+    font-weight: 400;
+    font-style: italic;
+    font-family: "ABeeZee", sans-serif;
+}

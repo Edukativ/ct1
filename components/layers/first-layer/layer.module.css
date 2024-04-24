@@ -1,0 +1,48 @@
+.container {
+    background-color: #F4F9E2;
+    height: 840px;
+}
+
+.content_wrapper {
+    display: flex;
+    justify-content: space-around;
+
+    margin-top: 40px;
+    background-color: transparent;
+}
+
+.content_desc_wrapper {
+    display: flex;
+    align-items: start;
+}
+
+.left_side {
+    width: 40%;
+    background-color: transparent;
+    margin-left: 150px;
+}
+
+.right_side {
+    width: 34%;
+    background-color: transparent;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.title {
+    font-style: italic;
+    font-size: 48px;
+    color: #22356F;
+    font-family: "ABeeZee", sans-serif;
+    font-weight: 400;
+    padding-bottom: 40px;
+}
+
+.content {
+    font-size: 24px;
+    color: #22356F;
+    font-family: "ABeeZee", sans-serif;
+    font-weight: 400;
+    line-height: 42.55px;
+}
